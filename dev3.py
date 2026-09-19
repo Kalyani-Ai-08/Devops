@@ -31,3 +31,4 @@ Pushing the application into production environments using automated infrastruct
 
 Deployment strategies such as blue-green, canary, or rolling updates are used to ensure minimal downtime.
 Common Tools: Kubernetes, Helm, Ansible, Terraform.
+thank you
